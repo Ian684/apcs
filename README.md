@@ -1,5 +1,9 @@
 # APCS 題型練習
 
+**目前共 50 個實作練習單元。** 完整題號、來源與執行方式見 [CATALOG.md](CATALOG.md)，機器可讀清單見 [EXERCISES.json](EXERCISES.json)。
+
+以下保留起步練習的說明；其餘題目按完整目錄閱讀。
+
 根目錄 apcs_*.py 保留原本解題檔案。新增 [practice/](practice/) 是自訂題型練習，**不是官方歷屆題目**。每題可由標準輸入執行。
 
 需要 Python 3.10 以上。在根目錄執行 python -m unittest discover -s tests -v。

@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "區間總和",
+    "source": "practice/range_queries.py",
+    "entry": "solve",
+    "goal": ""
+  },
+  {
+    "id": 2,
+    "title": "迷宮最短路",
+    "source": "practice/maze.py",
+    "entry": "shortest_route",
+    "goal": ""
+  },
+  {
+    "id": 3,
+    "title": "教室安排",
+    "source": "practice/meeting_rooms.py",
+    "entry": "minimum_rooms",
+    "goal": ""
+  },
+  {
+    "id": 4,
+    "title": "運貨容量",
+    "source": "practice/shipping.py",
+    "entry": "minimum_capacity",
+    "goal": ""
+  },
+  {
+    "id": 5,
+    "title": "數字加總",
+    "source": "practice/more.py",
+    "entry": "digit_sum",
+    "goal": "整數拆位，負號不計"
+  },
+  {
+    "id": 6,
+    "title": "反覆數字加總",
+    "source": "practice/more.py",
+    "entry": "digital_root",
+    "goal": "終止條件與 0"
+  },
+  {
+    "id": 7,
+    "title": "整數反轉",
+    "source": "practice/more.py",
+    "entry": "reverse_integer",
+    "goal": "符號與前導 0"
+  },
+  {
+    "id": 8,
+    "title": "進位轉換",
+    "source": "practice/more.py",
+    "entry": "base_digits",
+    "goal": "商、餘數與字元表"
+  },
+  {
+    "id": 9,
+    "title": "閏年",
+    "source": "practice/more.py",
+    "entry": "leap_year",
+    "goal": "條件的優先順序"
+  },
+  {
+    "id": 10,
+    "title": "時間進位",
+    "source": "practice/more.py",
+    "entry": "add_minutes",
+    "goal": "跨日取餘數"
+  },
+  {
+    "id": 11,
+    "title": "時鐘夾角",
+    "source": "practice/more.py",
+    "entry": "clock_angle",
+    "goal": "連續移動的時針"
+  },
+  {
+    "id": 12,
+    "title": "成績級距",
+    "source": "practice/more.py",
+    "entry": "grade_histogram",
+    "goal": "計數陣列與 100 分"
+  },
+  {
+    "id": 13,
+    "title": "加權平均",
+    "source": "practice/more.py",
+    "entry": "weighted_fraction",
+    "goal": "以分數保存精確值"
+  },
+  {
+    "id": 14,
+    "title": "影像旋轉",
+    "source": "practice/more.py",
+    "entry": "rotate_matrix",
+    "goal": "矩形座標變換"
+  },
+  {
+    "id": 15,
+    "title": "行列轉置",
+    "source": "practice/more.py",
+    "entry": "transpose_matrix",
+    "goal": "長寬交換"
+  },
+  {
+    "id": 16,
+    "title": "螺旋讀取",
+    "source": "practice/more.py",
+    "entry": "spiral_order",
+    "goal": "四個邊界逐層縮小"
+  },
+  {
+    "id": 17,
+    "title": "踩地雷提示",
+    "source": "practice/more.py",
+    "entry": "mine_counts",
+    "goal": "八方向鄰格邊界"
+  },
+  {
+    "id": 18,
+    "title": "島嶼數量",
+    "source": "practice/more.py",
+    "entry": "island_count",
+    "goal": "四方向連通區塊"
+  },
+  {
+    "id": 19,
+    "title": "機器人走格子",
+    "source": "practice/more.py",
+    "entry": "robot_position",
+    "goal": "狀態更新與越界拒絕"
+  },
+  {
+    "id": 20,
+    "title": "收銀台排隊",
+    "source": "practice/more.py",
+    "entry": "checkout_time",
+    "goal": "最早空閒的機台"
+  },
+  {
+    "id": 21,
+    "title": "報數淘汰",
+    "source": "practice/more.py",
+    "entry": "josephus",
+    "goal": "環狀串列的索引"
+  },
+  {
+    "id": 22,
+    "title": "堆疊命令",
+    "source": "practice/more.py",
+    "entry": "stack_commands",
+    "goal": "空堆疊與輸出序列"
+  },
+  {
+    "id": 23,
+    "title": "後序運算式",
+    "source": "practice/more.py",
+    "entry": "postfix_value",
+    "goal": "運算元順序"
+  },
+  {
+    "id": 24,
+    "title": "括號檢查",
+    "source": "practice/more.py",
+    "entry": "balanced_brackets",
+    "goal": "巢狀配對與忽略文字"
+  },
+  {
+    "id": 25,
+    "title": "火車調度",
+    "source": "practice/more.py",
+    "entry": "train_reorder",
+    "goal": "單一側線堆疊"
+  },
+  {
+    "id": 26,
+    "title": "連續壓縮",
+    "source": "practice/more.py",
+    "entry": "run_length",
+    "goal": "分組與最後一段"
+  },
+  {
+    "id": 27,
+    "title": "時間交集",
+    "source": "practice/more.py",
+    "entry": "intersection_length",
+    "goal": "半開區間"
+  },
+  {
+    "id": 28,
+    "title": "油漆覆蓋",
+    "source": "practice/more.py",
+    "entry": "covered_length",
+    "goal": "重疊區間不能重複計數"
+  },
+  {
+    "id": 29,
+    "title": "最均衡分割",
+    "source": "practice/more.py",
+    "entry": "balanced_cut",
+    "goal": "前綴與總和"
+  },
+  {
+    "id": 30,
+    "title": "達標最短連續段",
+    "source": "practice/more.py",
+    "entry": "minimum_window",
+    "goal": "正數滑動視窗"
+  },
+  {
+    "id": 31,
+    "title": "配對總和",
+    "source": "practice/more.py",
+    "entry": "target_pairs",
+    "goal": "重複值按位置計數"
+  },
+  {
+    "id": 32,
+    "title": "數字三角形",
+    "source": "practice/more.py",
+    "entry": "triangle_path",
+    "goal": "由底往上 DP"
+  },
+  {
+    "id": 33,
+    "title": "硬幣組合數",
+    "source": "practice/more.py",
+    "entry": "coin_combinations",
+    "goal": "組合不是排列"
+  },
+  {
+    "id": 34,
+    "title": "障礙格走法",
+    "source": "practice/more.py",
+    "entry": "grid_paths",
+    "goal": "只能往右或往下"
+  },
+  {
+    "id": 35,
+    "title": "線段格點",
+    "source": "practice/more.py",
+    "entry": "lattice_points",
+    "goal": "座標差與 gcd"
+  },
+  {
+    "id": 36,
+    "title": "矩形交疊面積",
+    "source": "practice/more.py",
+    "entry": "rectangle_overlap",
+    "goal": "水平與垂直交集"
+  },
+  {
+    "id": 37,
+    "title": "山峰位置",
+    "source": "practice/more.py",
+    "entry": "mountain_peaks",
+    "goal": "嚴格大於左右鄰居"
+  },
+  {
+    "id": 38,
+    "title": "天際線能見度",
+    "source": "practice/more.py",
+    "entry": "visible_buildings",
+    "goal": "嚴格刷新最高值"
+  },
+  {
+    "id": 39,
+    "title": "競賽排名",
+    "source": "practice/more.py",
+    "entry": "dense_ranks",
+    "goal": "同分同名次"
+  },
+  {
+    "id": 40,
+    "title": "集合交集",
+    "source": "practice/more.py",
+    "entry": "sorted_intersection",
+    "goal": "雙指標與去重"
+  },
+  {
+    "id": 41,
+    "title": "矩陣乘法",
+    "source": "practice/more.py",
+    "entry": "matrix_product",
+    "goal": "三層迴圈與維度"
+  },
+  {
+    "id": 42,
+    "title": "多項式求值",
+    "source": "practice/more.py",
+    "entry": "polynomial",
+    "goal": "Horner 法"
+  },
+  {
+    "id": 43,
+    "title": "最大公因數與最小公倍數",
+    "source": "practice/more.py",
+    "entry": "gcd_lcm",
+    "goal": "先除再乘"
+  },
+  {
+    "id": 44,
+    "title": "範圍內質數數量",
+    "source": "practice/more.py",
+    "entry": "prime_count",
+    "goal": "篩法與 0、1"
+  },
+  {
+    "id": 45,
+    "title": "因數列舉",
+    "source": "practice/more.py",
+    "entry": "divisors",
+    "goal": "平方根配對避免重複"
+  },
+  {
+    "id": 46,
+    "title": "最接近數字",
+    "source": "practice/more.py",
+    "entry": "closest_pair_gap",
+    "goal": "排序後只比較鄰居"
+  },
+  {
+    "id": 47,
+    "title": "單次買賣",
+    "source": "practice/more.py",
+    "entry": "max_profit",
+    "goal": "維護歷史最低價格"
+  },
+  {
+    "id": 48,
+    "title": "票數最多者",
+    "source": "practice/more.py",
+    "entry": "frequency_winner",
+    "goal": "平手取字典序最小"
+  },
+  {
+    "id": 49,
+    "title": "括號深度",
+    "source": "practice/more.py",
+    "entry": "parentheses_depth",
+    "goal": "合法性與最大巢狀"
+  },
+  {
+    "id": 50,
+    "title": "二元排序交換",
+    "source": "practice/more.py",
+    "entry": "minimum_swaps_binary",
+    "goal": "錯放的 1 數量"
+  }
+]
