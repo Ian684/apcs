@@ -57,5 +57,3 @@ if __name__ == "__main__":
                 arr[i] = j
 for i , j in arr.items():
     print(i+1)
-                
-
