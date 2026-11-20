@@ -1,2 +1,8 @@
 __pycache__/
 *.pyc
+
+# Generated practice artifacts
+**/target/
+*.vcd
+*.vvp
+/.practice-build/
